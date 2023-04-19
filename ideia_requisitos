@@ -1,0 +1,46 @@
+-------------------
+COOPERATIVA - ADMIN
+-------------------
+- CADASTRAR CATADOR
+- CADASTRAR GERADOR DE RESÍDUOS
+
+- CONFIRMAR CADASTRO SITE
+	> GERADOR DE RESÍDUOS
+	> CATADOR
+	
+- VINCULAR CATADOR/GERADOR PARA COLETA
+- NOTIFICAR CATADOR
+- FINALIZAR PEDIDO DE COLETA
+
+- GERAR RELATÓRIOS
+	> POR CATADOR
+	> POR GERADOR
+	> POR DATA
+	
+- MANTER SITE
+    > APRESENTAÇÃO
+	> QUEM SOMOS
+	> NOSSO TRABALHO
+	> JUNTE-SE A NÓS
+	> NOTÍCIAS
+	> INFORMAÇÕES AO CATADOR
+	> NOSSOS PARCEIROS (GERADORES DE RESÍDUOS)
+	> ENTRE EM CONTATO
+
+-------
+CATADOR
+-------
+- EFETUAR CADASTRO
+
+------------------
+GERADOR DE RESÍDUO
+------------------
+- NOTIFICAR COOPERATIVA / RECOLHIMENTO RESÍDUOS / PEDIDO DE COLETA
+- EFETUAR CADASTRO
+
+
+STATUS DO PEDIDO:
+	1) EM ABERTO (efetuado pelo gerador / no site da cooperativa / ou cooperativa na administração)
+	2) PEDIDO RECEBIDO (efetuado pela cooperativa / vinculo entre catador e gerador)	
+	3) EM ATENDIMENTO (efetuado pela cooperativa / notificação do catador)
+	4) RECEBIDO / FINALIZADO (efetuado pela cooperativa / catador entrega a coleta na cooperativa)
